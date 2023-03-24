@@ -1,0 +1,8 @@
+E:\-\уп 03\-\+\пр4\PR41\bin\Debug\PR41.exe.config
+E:\-\уп 03\-\+\пр4\PR41\bin\Debug\PR41.exe
+E:\-\уп 03\-\+\пр4\PR41\bin\Debug\PR41.pdb
+E:\-\уп 03\-\+\пр4\PR41\obj\Debug\PR4-2.csproj.AssemblyReference.cache
+E:\-\уп 03\-\+\пр4\PR41\obj\Debug\PR4-2.csproj.SuggestedBindingRedirects.cache
+E:\-\уп 03\-\+\пр4\PR41\obj\Debug\PR4-2.csproj.CoreCompileInputs.cache
+E:\-\уп 03\-\+\пр4\PR41\obj\Debug\PR41.exe
+E:\-\уп 03\-\+\пр4\PR41\obj\Debug\PR41.pdb
